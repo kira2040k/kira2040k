@@ -8,6 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kira2040k&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/kira2040k/php_code_analysis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kira2040k&theme=dark&repo=php_code_analysis" />
 </a>
