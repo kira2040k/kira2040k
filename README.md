@@ -16,6 +16,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kira2040k&theme=dark&repo=AVBypass" />
 </a>
 
-<a href="https://github.com/kira2040k/AVBypass">
+<a href="https://github.com/kira2040k/php_titan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kira2040k&theme=dark&repo=php_titan" />
 </a>
