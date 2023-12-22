@@ -1,6 +1,6 @@
 ### pentester && programmer
 - Abdulaziz Alshaye💻
-- <img src=https://images.emojiterra.com/google/noto-emoji/unicode-13.1/128px/1f1f8-1f1e6.png width="25" height="25"> Saudi
+-  Saudi <img src=https://images.emojiterra.com/google/noto-emoji/unicode-13.1/128px/1f1f8-1f1e6.png width="25" height="25">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kira2040k&label=Profile%20views&color=0e75b6&style=flat" alt="kira2040k" /> </p>
 <p align="left"> <a href="https://twitter.com/kira_321k" target="blank"><img src="https://img.shields.io/twitter/follow/kira_321k?logo=twitter&style=for-the-badge" alt="kira_321k" /></a> </p>
 
